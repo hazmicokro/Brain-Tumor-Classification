@@ -4,5 +4,6 @@ Author : Hazmi Cokro
 
 Dataset : https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 
-[1] Brain Tumor Classification using Mobilenet \
+[1] Brain Tumor Classification using CNN \
+[2] Brain Tumor Classification using Mobilenet
 
